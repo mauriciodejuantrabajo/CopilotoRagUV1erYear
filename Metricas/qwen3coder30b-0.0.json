@@ -1,0 +1,212 @@
+[
+    {
+        "qid": "Q01",
+        "answ": "Adquiere la condición de alumno regular al pagar el Derecho Básico de Matrícula (Matrícula Administrativa) y la inscripción académica (Matrícula Académica), según se establece en el Artículo 4 del Reglamento General de Estudios. La matrícula tiene duración anual o semestral según la naturaleza del currículo, y se extiende hasta el inicio del siguiente período académico. Debe renovarse en cada período dentro de los plazos fijados, según lo establecido en el Artículo 5 del Reglamento General de Estudios.",
+        "refs": " Reglamento General de Estudios de Pregrado UV: [Art. 4, Art. 5]",
+        "location": "TÍTULO II DE LA MATRÍCULA",
+        "lat_ms": 18067.737
+    },
+    {
+        "qid": "Q02",
+        "answ": "La diferencia entre el sistema regular y los sistemas especiales de ingreso en la Universidad de Valparaíso es la siguiente: El **Sistema Regular de Ingreso** está destinado a personas que poseen la Licencia de Educación Media o sus equivalentes legales, habilitantes para postular a las universidades chilenas. El **Sistema Especial de Ingreso** está dirigido a personas que se encuentran en situaciones especiales, como chilenos o hijos de chilenos que hayan cursado al menos dos de los últimos tres años de estudios medios en otro país, extranjeros que hayan cursado al menos los dos últimos años de estudios medios en otro país, hijos de funcionarios que se encuentren en el extranjero al servicio del Estado de Chile o de instituciones que de él formen parte, y que regresen al país habiendo cursado al menos el último año de estudios medios en el extranjero",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 2]",
+        "location": "TÍTULO I DE LA POSTULACIÓN Y SELECCIÓN A LA UNIVERSIDAD",
+        "lat_ms": 26752.906
+    },
+    {
+        "qid": "Q03",
+        "answ": "Sí, quienes ingresen a alguna carrera o programa con estudios superiores previos realizados en la Universidad de Valparaíso o en otra Institución de Educación Superior, pueden solicitar el reconocimiento u homologación de asignaturas, siempre y cuando no hayan sido eliminados académicamente de la misma carrera. El procedimiento y condiciones de homologación será determinado por la Facultad a la que pertenece la carrera o programa al que haya ingresado el alumno.",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 7]",
+        "location": "TÍTULO II DE LA MATRÍCULA",
+        "lat_ms": 22588.367
+    },
+    {
+        "qid": "Q04",
+        "answ": "Según el Reglamento General de Estudios de la Universidad de Valparaíso, tanto los programas como las carreras son conjuntos de asignaturas y actividades conexas sistematizadas a través de un plan de estudios o currículo conducente a la obtención de un grado académico. La principal diferencia radica en que una carrera específicamente conduce a la obtención de un título profesional, mientras que un programa puede ser más general. Los estudios regulares de pregrado se organizan en carreras o programas, y cada uno debe ser aprobado por el Rector de la Universidad, previo informe favorable del respectivo Consejo de Facultad y de la División Académica.",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 8, Art. 9, Art. 10]",
+        "location": "TÍTULO III DEL REGIMEN DE ESTUDIOS",
+        "lat_ms": 33182.951
+    },
+    {
+        "qid": "Q05",
+        "answ": "No se exige asistencia mínima a todas las asignaturas. Según el Reglamento General de Estudios de la Universidad de Valparaíso, en el artículo 17 del Reglamento de la Carrera de Ingeniería Civil Informática se menciona que solo se puede exigir una asistencia mínima del 50% en asignaturas específicas como talleres, prácticas de laboratorio o actividades que por sus características lo requieran. Para el resto de las asignaturas no se establece un requisito mínimo de asistencia general.",
+        "refs": "Reglamento General de Estudios de Pregrado UV: [Art. 17], Reglamento General de Estudios de Pregrado UV: [Art. 20]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE, TÍTULO III DEL REGIMEN DE ESTUDIOS",
+        "lat_ms": 24448.994
+    },
+    {
+        "qid": "Q06",
+        "answ": "La escala de notas va desde 1,0 hasta 7,0. Para aprobar una asignatura, el estudiante necesita obtener una nota final igual o superior a 4,0 (cuatro coma cero). Si la nota final está entre 3,5 y 3,9 (ambas inclusive), el estudiante tiene derecho a rendir una única vez una evaluación extraordinaria.",
+        "refs": "Reglamento_ICI: [Art. 22]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 21378.099
+    },
+    {
+        "qid": "Q07",
+        "answ": "Si falta a una evaluación, obtendrá nota 1,0 salvo que acredite fundadamente fuerza mayor o caso fortuito. Debe justificar la inasistencia en un plazo no superior a 48 horas de producido el hecho, según el Artículo 15 del Reglamento General de Estudios de la Universidad de Valparaíso.",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 15]",
+        "location": "TÍTULO III DEL REGIMEN DE ESTUDIOS",
+        "lat_ms": 14722.702
+    },
+    {
+        "qid": "Q08",
+        "answ": "Según el reglamento de la Universidad de Valparaíso, si un estudiante reprueba un examen final, puede repetirlo hasta una sola vez en una temporada extraordinaria. Si no asiste al examen final, se considerará como reprobación y el alumno será calificado con nota 1.0. Sin embargo, en caso de fuerza mayor o caso fortuito o grave impedimento debidamente acreditado, el Coordinador de Carrera puede autorizar una nueva fecha para rendir la evaluación final, la cual no podrá exceder los treinta días corridos contados desde el inicio del período académico siguiente",
+        "refs": " REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 17], Reglamento_ICI: [Art. 15, Art. 21, Art. 35]",
+        "location": "TÍTULO III DEL REGIMEN DE ESTUDIOS, TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 26329.998
+    },
+    {
+        "qid": "Q09",
+        "answ": "En los currículos rígidos, la promoción se opera a nivel de plan de estudios completo, donde el alumno debe aprobar todas las asignaturas del plan para avanzar. En los currículos flexibles, la promoción es por asignatura individual, lo que significa que no se puede inscribir o cursar asignaturas superiores hasta que se aprueben todas las asignaturas previas o requisitos (previaturas) correspondientes. En ambos casos, para inscribir asignaturas superiores, es necesario haber aprobado las asignaturas previas establecidas en el plan de estudios",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 11, Art. 12, Art. 13]",
+        "location": "TÍTULO III DEL REGIMEN DE ESTUDIOS",
+        "lat_ms": 27501.067
+    },
+    {
+        "qid": "Q10",
+        "answ": "Según la información disponible en los reglamentos universitarios, el número de oportunidades para cursar una asignatura reprobada es una vez más en primera oportunidad (si se reprueba en la primera vez) y un máximo de dos asignaturas en tercera oportunidad durante el curso de su carrera. Qué ocurre si necesito más oportunidades: Si se agotan estas oportunidades, el alumno podrá solicitar al Decano de la Facultad, en el plazo de 30 días contados desde la reprobación, la oportunidad de poder continuar sus estudios. El Decano, oyendo previamente al Consejo de Facultad y de Escuela y teniendo a la vista todos los antecedentes necesarios del estudiante, podrá, por resolución fundada, autorizar dicha excepcionalidad, estableciendo las condiciones académicas de permanencia del estudiante en la carrera.",
+        "refs": "Reglamento General de Estudios de Pregrado UV [Art. 19, Art. 20]",
+        "location": "TÍTULO III DEL REGIMEN DE ESTUDIOS",
+        "lat_ms": 32102.821
+    },
+    {
+        "qid": "Q11",
+        "answ": "El plazo máximo para terminar una carrera es definido por la Universidad, específicamente por el Reglamento General de Estudios de la Universidad de Valparaíso. Según el Artículo 20 del Reglamento General de Estudios de la Universidad, cuando se alcanza este plazo máximo establecido, el estudiante deberá revalidar las asignaturas cursadas y someterse a nuevas exigencias curriculares.",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 20]",
+        "location": "TÍTULO VII DISPOSICIONES GENERALES",
+        "lat_ms": 20006.66
+    },
+    {
+        "qid": "Q12",
+        "answ": "La diferencia entre estos conceptos es la siguiente: renuncia es la voluntad del estudiante de retirarse definitivamente de sus estudios, con autorización de la Universidad. Suspensión es la interrupción de los estudios por el período académico en curso, con autorización de la Universidad. Requiere causal justificada y retrotrae la situación académica al inicio del período suspendido. Postergación es la interrupción de estudios hasta por dos años después de concluir un período académico, con autorización de la Universidad. Reincorporación es el acto por el cual una persona que ha suspendido o postergado sus estudios vuelve a incorporarse a la misma carrera. Las solicitudes de renuncia, suspensión, postergación y reincorporación son resueltas por el Decano respectivo de la Facultad. Las decisiones se toman oyendo a los Directores de Escuela o Instituto, Coordinadores de Carrera y/o Consejo de Facultad según sea necesario.",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 22, Art. 23, Art. 24, Art. 25, Art. 26]",
+        "location": "TITULO IV DE LA RENUNCIA, SUSPENSION, POSTERGACION Y REINCORPORACION",
+        "lat_ms": 26293.243
+    },
+    {
+        "qid": "Q13",
+        "answ": "Los diplomas y certificados de grado o título son otorgados por el **Rector** de la Universidad, conforme a las disposiciones legales y reglamentarias vigentes. Los certificados de grados académicos y títulos profesionales serán otorgados por el **Director de la División Académica**, teniendo en cuenta la resolución del Rector. El expediente para titularse incluye los siguientes documentos: solicitud de grado y/o título, concentración de notas, acta resumen, y certificados que acrediten la circunstancia de no tener obligaciones pendientes de tipo académico, económico, administrativo o disciplinario en proceso con la Universidad",
+        "refs": "Reglamento General de Estudios de Pregrado UV: [Art. 27, Art. 28, Art. 29, Art. 30, Art. 31]",
+        "location": "TÍTULO V DEL OTORGAMIENTO DE DIPLOMAS Y CERTIFICADOS DE GRADOS ACADEMICOS Y/O TITULOS PROFESIONALES",
+        "lat_ms": 25069.026
+    },
+    {
+        "qid": "Q14",
+        "answ": "La calificación del título o grado se expresa mediante los siguientes conceptos y sus equivalentes en escala de notas: Aprobado: nota entre 4,00 y 5,00, Aprobado con distinción: nota entre 5,01 y 6,00 y Aprobado con distinción máxima: nota entre 6,01 y 7,00. En los certificados de título y grado se debe dejar constancia del concepto y su equivalencia en la escala de notas. En los diplomas solo figuran los conceptos, no las notas numéricas",
+        "refs": "REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 32]",
+        "location": "TÍTULO V DEL OTORGAMIENTO DE DIPLOMAS Y CERTIFICADOS DE GRADOS ACADEMICOS Y/O TITULOS PROFESIONALES",
+        "lat_ms": 25949.488
+    },
+    {
+        "qid": "Q15",
+        "answ": "Según el Reglamento General, homologación es el procedimiento que establece la equivalencia entre una o más asignaturas y otras de otro plan de estudios, en términos de contenido, nivel de profundidad, alcance y requisitos. Transferencia es el cambio de un estudiante de una carrera o programa a otra dentro de la Universidad de Valparaíso. Egresado es el estudiante que ha aprobado todas las asignaturas y actividades curriculares del plan de estudios de una carrera o programa y, por lo tanto, está habilitado para realizar actividades académicas conducentes a la obtención del grado académico y/o título profesional.",
+        "refs": "Reglamento General de Estudios de Pregrado UV: [Art. 7], Reglamento General de Estudios de Pregrado UV: [Art. 37]",
+        "location": "TÍTULO VII DISPOSICIONES GENERALES, TÍTULO II DE LA MATRÍCULA",
+        "lat_ms": 36656.623
+    },
+    {
+        "qid": "Q16",
+        "answ": "El régimen de estudios de la carrera de Ingeniería Civil Informática es semestral diurno con currículum flexible, implementando el Sistema de Créditos Transferibles (SCT), según se establece en la Resolución Exenta Nº 2475-16. El Plan de Estudios conduce al grado académico de Licenciado en Ciencias de la Ingeniería y al título profesional de Ingeniero Civil Informático. Para obtener el título profesional, los estudiantes deben aprobar todas las asignaturas del primer al décimo segundo semestre, incluidas la Práctica Profesional I y la Práctica Profesional II.",
+        "refs": "Reglamento_ICI: [Art. 3, Art. 4, Art. 6, Art. 7]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO",
+        "lat_ms": 27777.488
+    },
+    {
+        "qid": "Q17",
+        "answ": "Adquieres la condición de egresado en Ingeniería Civil Informática cuando has aprobado todas las asignaturas del Plan de Estudios.",
+        "refs": "Reglamento_ICI: [Art. 7]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO",
+        "lat_ms": 23754.013
+    },
+    {
+        "qid": "Q18",
+        "answ": "Sí, las previaturas son obligatorias en la carrera de Ingeniería Civil Informática. Según el reglamento, es responsabilidad del Jefe de Carrera velar por su cumplimiento. Sin embargo, el Jefe de Carrera puede autorizar excepciones con el objetivo de garantizar el correcto y oportuno avance curricular de los estudiantes, siempre que se realice un análisis previo en conjunto con el académico de la asignatura.",
+        "refs": "Reglamento_ICI: [Art. 8]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO",
+        "lat_ms": 29788.997
+    },
+    {
+        "qid": "Q19",
+        "answ": "La duración del Plan de Estudios de la carrera de Ingeniería Civil Informática es de 12 semestres. El plazo máximo para completar la carrera es de 18 semestres. Si el estudiante sobrepasa este plazo máximo establecido, deberá revalidar las asignaturas cursadas y someterse a nuevas exigencias curriculares.",
+        "refs": "Reglamento_ICI: [Art. 9]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO",
+        "lat_ms": 35667.965
+    },
+    {
+        "qid": "Q20",
+        "answ": "Debes inscribir tus asignaturas previo al inicio de cada semestre lectivo, según se establece en el Artículo 10 del Reglamento de la Carrera de Ingeniería Civil Informática. Si repruebas una asignatura, deberás rendirla nuevamente en una oportunidad posterior, ya que el reglamento no especifica qué sucede exactamente con las asignaturas reprobadas más allá de la inscripción.",
+        "refs": "Reglamento_ICI: [Art. 10, Art. 11]",
+        "location": "TÍTULO III - DE LA INSCRIPCIÓN DE ASIGNATURAS",
+        "lat_ms": 41523.06
+    },
+    {
+        "qid": "Q21",
+        "answ": "Según el reglamento de la carrera de Ingeniería Civil Informática, no se especifican claramente las restricciones de horario ni los límites máximos de carga académica (SCT) en los artículos disponibles. Solo se menciona que el plan de estudios sigue un régimen semestral diurno con Sistema de Créditos Transferibles (SCT), pero no se indica la cantidad máxima de créditos ni si existen tope de horario. Para obtener información precisa sobre la carga máxima y posibles solicitudes adicionales, se recomienda consultar directamente con la Escuela de Ingeniería Civil Informática o el Jefe de Carrera.",
+        "refs": "Reglamento_ICI: [Art. 3], Reglamento_ICI: [Art. 10]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO, TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS",
+        "lat_ms": 54637.075
+    },
+    {
+        "qid": "Q22",
+        "answ": "Según el Reglamento de la Carrera de Ingeniería Civil Informática, el Jefe de Carrera puede autorizar excepciones para garantizar el correcto y oportuno avance curricular de los estudiantes. Esta disposición se encuentra en el Artículo 8 del Reglamento, que establece que las previaturas son obligatorias, pero el Jefe de Carrera puede hacer excepciones con el análisis previo conjunto con el académico de la asignatura.",
+        "refs": "Reglamento_ICI: [Art.8]",
+        "location": "TÍTULO II DEL PLAN DE ESTUDIO",
+        "lat_ms": 30788.529
+    },
+    {
+        "qid": "Q23",
+        "answ": "Los profesores deben informar al inicio del curso sobre los criterios de evaluación, calendario de evaluaciones y expectativas académicas para la asignatura. Las evaluaciones sumativas pueden ser tomadas por los estudiantes regularmente inscritos en las asignaturas correspondientes, según lo establecido en el plan de estudios y reglamento académico de la carrera.",
+        "refs": "Reglamento_ICI: [Art. 10, Art. 11], Reglamento_ICI: [Art. 38, Art. 39]",
+        "location": "TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS, TÍTULO X  DEL GRADO DE LICENCIADO, TÍTULO XI  DEL TRABAJO DE TÍTULO",
+        "lat_ms": 36607.874
+    },
+    {
+        "qid": "Q24",
+        "answ": "Según el Reglamento de Estudios de la Carrera de Ingeniería Civil Informática, para cada asignatura del plan de estudios se puede exigir una asistencia de al menos un 50% en talleres, prácticas de laboratorio o aquellas actividades que por sus propias características lo requieran.",
+        "refs": "Reglamento_ICI: [Art. 17]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 24810.334
+    },
+    {
+        "qid": "Q25",
+        "answ": "La escala de notas para la carrera de Ingeniería Civil Informática es de 1,0 a 7,0, tal como se establece en el Reglamento General de Estudios de la Universidad de Valparaíso. El nivel de exigencia para obtener una nota 4,0 es del 60%",
+        "refs": "Reglamento_ICI [Art. 18, Art. 19]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 18031.437
+    },
+    {
+        "qid": "Q26",
+        "answ": "Una asignatura debe contemplar como mínimo tres evaluaciones sumativas durante el semestre.",
+        "refs": "Reglamento_ICI: [Art. 20]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 12274.98
+    },
+    {
+        "qid": "Q27",
+        "answ": "Si un estudiante falta a una evaluación, será calificado con nota 1,0, salvo que acredite fundadamente fuerza mayor u otra incapacidad. La situación debe ser justificada en un plazo no superior a 2 días hábiles de ocurrida la evaluación. En caso de inasistencia justificada, cada programa de asignatura especificará la cantidad y metodología de las evaluaciones recuperativas. Estas evaluaciones recuperativas existen y se determinan por asignatura según lo establecido en el programa correspondiente.",
+        "refs": " Reglamento_ICI: [Art. 21], Reglamento_ICI: [Art. 15, Art. 35]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE, TÍTULO IV DEL DESARROLLO DE LAS ASIGNATURAS",
+        "lat_ms": 20711.063
+    },
+    {
+        "qid": "Q28",
+        "answ": "Cuando un estudiante termina un curso con nota entre 3,5 y 3,9 inclusive, tiene derecho a rendir una sumativa extraordinaria. La nota de cierre de la asignatura se calculará como el promedio ponderado entre la nota de presentación (que se ponderará por el 70%) y la calificación de la sumativa extraordinaria (que se ponderará por el 30%). Si esta nota ponderada resulta igual o superior a 4,0, el estudiante aprobará la asignatura con nota 4,0.",
+        "refs": "Reglamento_ICI: [Art. 22]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 19637.079
+    },
+    {
+        "qid": "Q29",
+        "answ": "Las notas de las evaluaciones deben ser publicadas en un periodo no superior a 15 días hábiles, a contar del día siguiente de realizada la actividad de evaluación (Artículo 23). El estudiante tiene un plazo máximo de 3 días hábiles desde que se conoce o publica el resultado para realizar una apelación (Artículo 25).",
+        "refs": "Reglamento_ICI: [Art. 23, Art. 25]",
+        "location": "TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE",
+        "lat_ms": 18172.123
+    },
+    {
+        "qid": "Q30",
+        "answ": " Las Prácticas Profesionales I y II se realizan en el 5º semestre y 11º semestre respectivamente. Para la Práctica I se requiere haber aprobado al menos el 4º semestre, y para la Práctica II se necesita haber aprobado el 8º semestre y la Práctica I. El Trabajo de Título se desarrolla en el Seminario de Título II, donde el estudiante presenta un informe final y rinde un Examen de Título frente a una Comisión Examinadora. Esta comisión es designada por el Jefe de Carrera basándose en la recomendación del profesor guía.",
+        "refs": "Reglamento_ICI: [Art. 30, Art. 31, Art. 32], Reglamento_ICI: [Art. 35, Art. 36, Art. 37, Art. 38, Art. 39]",
+        "location": " TÍTULO IX DE LA PRÁCTICA PROFESIONAL, TÍTULO XI  DEL TRABAJO DE TÍTULO",
+        "lat_ms": 26592.695
+    }
+]

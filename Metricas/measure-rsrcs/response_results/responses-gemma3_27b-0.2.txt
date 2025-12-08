@@ -1,0 +1,226 @@
+
+-Prompt: ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?
+
+Respuesta: Adquieres la condición de alumno regular con el pago del Derecho Básico de Matrícula y la inscripción académica. La matrícula tiene una duración anual o semestral, dependiendo del currículo, y debe renovarse en cada período, dentro de los plazos establecidos en el Reglamento de Aranceles.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 4, Art. 5], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 38]
+Ubicaciones: TITULO II DE LA MATRÍCULA, TÍTULO VII DISPOSICIONES GENERALES
+
+-Prompt: ¿Qué diferencia hay entre el sistema regular y los sistemas especiales de ingreso?
+
+Respuesta: El sistema regular de ingreso está abierto a personas que posean la Licencia de Educación Media o sus equivalentes legales. El sistema especial de ingreso está disponible para chilenos o hijos de chilenos que hayan cursado al menos dos de los últimos tres años de estudios medios en el extranjero, extranjeros que hayan cursado al menos los dos últimos años de estudios medios en el extranjero, o hijos de funcionarios del Estado chileno en el extranjero que hayan cursado al menos el último año de estudios medios en el extranjero.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 2]
+Ubicaciones: TITULO I DE LA POSTULACIÓN Y SELECCIÓN A LA UNIVERSIDAD
+
+-Prompt: Si ingresé con estudios previos, ¿puedo homologar asignaturas y bajo qué condiciones generales?
+
+Respuesta: Sí, puedes solicitar la homologación de asignaturas si ingresas con estudios superiores previos, ya sea de la Universidad de Valparaíso o de otra institución. Sin embargo, no podrás hacerlo si fuiste eliminado académicamente de la misma carrera a la que estás ingresando. El procedimiento y las condiciones específicas de homologación serán determinadas por la Facultad a la que pertenezca la carrera o programa.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 7]
+Ubicaciones: TITULO II DE LA MATRÍCULA
+
+-Prompt: ¿Cuál es la diferencia entre ‘programa’ y ‘carrera’ y cómo se organizan los estudios?
+
+Respuesta: Tanto 'programa' como 'carrera' se refieren al conjunto de asignaturas y actividades sistematizadas a través de un plan de estudios, conducente a la obtención de un grado académico. En esencia, son términos utilizados de manera similar para describir la estructura de los estudios. Los estudios se organizan a través de estas carreras o programas, siendo responsabilidad de las Facultades, a través de sus diferentes unidades académicas, la administración de los planes de estudio.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 8, Art. 9], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 10]
+Ubicaciones: TITULO III DEL REGIMEN DE ESTUDIOS
+
+-Prompt: ¿Se exige asistencia mínima a todas las asignaturas?
+
+Respuesta: No se exige asistencia mínima a todas las asignaturas, pero algunas, como talleres, prácticas de laboratorio o aquellas que por sus características lo requieran, pueden exigir una asistencia de al menos un 50%.
+
+Referencias: Reglamento_ICI: [Art. 17], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 19]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuál es la escala de notas y con qué nota final se aprueba una asignatura?
+
+Respuesta: La escala de notas es de 1,0 a 7,0. Se aprueba una asignatura con una nota final igual o superior a 4,0.
+
+Referencias: Reglamento_ICI: [Art. 22]
+Ubicaciones: TÍTULO VI  DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar la inasistencia para evitar el 1,0?
+
+Respuesta: Si faltas a una evaluación, obtendrás una nota 1,0. Sin embargo, puedes evitar esta nota si justificas tu inasistencia dentro de un plazo máximo de 2 días hábiles después de la evaluación, acreditando fuerza mayor u otra incapacidad.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 15], Reglamento_ICI: [Art. 21]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuántas veces puedo repetir un examen final reprobado y qué ocurre si no asisto al examen?
+
+Respuesta: Puedes repetir el examen final reprobado hasta por una sola vez en una temporada extraordinaria. Si no asistes al examen final, se considerará reprobación y recibirás una nota 1.0, a menos que justifiques tu ausencia por fuerza mayor, caso fortuito o grave impedimento, lo cual te permitiría solicitar una nueva fecha para rendir el examen, pero solo en una ocasión y dentro de los 30 días siguientes al inicio del período académico siguiente.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 17, Art. 18]
+Ubicaciones: TITULO III DEL REGIMEN DE ESTUDIOS
+
+-Prompt: En currículos rígidos y flexibles, ¿cómo opera la promoción y las previaturas para inscribir asignaturas superiores?
+
+Respuesta: En currículos rígidos, no se especifica cómo opera la promoción o las previaturas en el texto proporcionado. Sin embargo, en currículos flexibles, la promoción de los estudiantes es por asignatura, lo que significa que no se puede inscribir en asignaturas superiores hasta haber aprobado todas las asignaturas anuales o semestrales que son requisitos o previaturas de ellas, o que integren el plan de estudios.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 19], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 19]
+Ubicaciones: TITULO III DEL REGIMEN DE ESTUDIOS, TITULO III DEL REGIMEN DE ESTUDIOS
+
+-Prompt: ¿Cuántas veces puedo cursar una asignatura reprobada y qué ocurre si necesito más oportunidades?
+
+Respuesta: Puedes cursar una asignatura reprobada una vez más en primera oportunidad y un máximo de dos veces en tercera oportunidad durante tu carrera. Si agotas estas oportunidades, puedes solicitar al Decano de la Facultad, dentro de los 30 días siguientes a la reprobación, la posibilidad de continuar tus estudios, sujeto a una resolución fundada y condiciones académicas específicas.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 19, Art. 20]
+Ubicaciones: TITULO III DEL REGIMEN DE ESTUDIOS
+
+-Prompt: ¿Quién define el plazo máximo para terminar la carrera y qué pasa al sobrepasarlo?
+
+The provided context doesn't explicitly state *who* defines the maximum time to complete a degree. However, it *does* state what happens if that maximum time is exceeded: the student must revalidate the courses taken and be subject to new curricular requirements (Art. 20 Reglamento General de Estudios de la Universidad).
+
+**Respuesta:** El contexto indica que, al sobrepasar el plazo máximo establecido para terminar la carrera, el estudiante deberá revalidar las asignaturas cursadas y someterse a nuevas exigencias curriculares. No se especifica quién define ese plazo máximo.
+
+**Referencias:** Reglamento_ICI: [Art. 20]
+**Ubicaciones:** TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS
+
+-Prompt: ¿Cuál es la diferencia entre renuncia, suspensión, postergación y reincorporación, y quién resuelve estas solicitudes?
+
+Respuesta: La **renuncia** es el acto por el cual el estudiante manifiesta su voluntad de retirarse definitivamente de sus estudios, con autorización de la Universidad. La **suspensión** es la interrupción de los estudios por el período académico en curso, también con autorización. La **postergación** es la interrupción de los estudios tras concluir un período académico, por hasta dos años y con autorización. Finalmente, la **reincorporación** es el acto de volver a incorporarse a la misma carrera tras una suspensión o postergación.
+
+Las solicitudes de renuncia, suspensión, postergación y reincorporación son resueltas por el **Decano** respectivo.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 22, Art. 23, Art. 24, Art. 25, Art. 26]
+Ubicaciones: TITULO IV DE LA RENUNCIA, SUSPENSION, POSTERGACION Y REINCORPORACION
+
+-Prompt: ¿Quién otorga los diplomas y certificados de grado o título y qué documentos integran el expediente para titularse?
+
+Respuesta: Los diplomas son otorgados por el Rector, mientras que los certificados de grados académicos y títulos profesionales son otorgados por el Director de la División Académica.
+
+El expediente para titularse debe incluir: solicitud de grado y/o título, concentración de notas y acta de cumplimiento de las exigencias académicas del plan de estudios.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 27, Art. 29, Art. 31], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 28]
+Ubicaciones: TÍTULO V DEL OTORGAMIENTO DE DIPLOMAS Y CERTIFICADOS DE GRADOS ACADEMICOS Y/O TITULOS PROFESIONALES.
+
+-Prompt: ¿Cómo se expresa la calificación del título o grado (aprobado, con distinción, con distinción máxima)?
+
+The provided context doesn't explicitly state how "aprobado, con distinción, con distinción máxima" are *expressed* as specific grades. However, it *does* state that the scale of grades is from 1.0 to 7.0 (Art. 18, Reglamento_ICI). 
+
+Therefore, while the specific terms aren't defined, the qualification of a title or degree is expressed numerically on a scale of 1.0 to 7.0. A higher number indicates a better qualification.
+
+Respuesta: La calificación del título o grado se expresa numéricamente en una escala de 1.0 a 7.0.
+
+Referencias: Reglamento_ICI: [Art. 18]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Qué significan homologación, transferencia y egresado según el reglamento general?
+
+Respuesta: Según el reglamento general:
+
+* **Homologación:** Es el procedimiento para establecer la equivalencia entre una o más asignaturas con otras de un plan de estudios diferente, considerando el contenido, profundidad, extensión y exigencias.
+* **Transferencia:** Es el cambio de un estudiante de una carrera o programa a otra dentro de la Universidad de Valparaíso.
+* **Egresado:** Es el estudiante que ha aprobado todas las asignaturas y actividades curriculares de su carrera o programa, y por lo tanto, está habilitado para realizar las actividades académicas necesarias para obtener su grado académico o título profesional.
+
+Referencias: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 37], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 37]
+Ubicaciones: TÍTULO VII DISPOSICIONES GENERALES
+
+-Prompt: ¿Cuál es el régimen de estudios de ingniería civil informática y qué grados/título otorga la carrera?
+
+Respuesta: La carrera de Ingeniería Civil Informática tiene un régimen de estudios semestral diurno de currículum flexible, con Sistema de Créditos Transferibles (SCT). Otorga el grado académico de Licenciado en Ciencias de la Ingeniería y el título profesional de Ingeniero Civil Informático.
+
+Referencias: Reglamento_ICI [Art. 3, Art. 4], Reglamento_ICI: [Art. 4], Reglamento_ICI: [Art. 4]
+Ubicaciones: TÍTULO II DEL PLAN DE ESTUDIO
+
+-Prompt: ¿Cuándo adquiero la condición de egresado en ingniería civil informática?
+
+Respuesta: Adquieres la condición de egresado una vez que has aprobado todas las asignaturas del plan de estudios de Ingeniería Civil Informática.
+
+Referencias: Reglamento_ICI [Art. 7]
+Ubicaciones: TÍTULO II    DEL PLAN DE ESTUDIO
+
+-Prompt: ¿Las previaturas son obligatorias y quién puede autorizar excepciones?
+
+Respuesta: Sí, las previaturas establecidas en el Plan de Estudios son obligatorias. El Jefe de Carrera puede autorizar excepciones a objeto de garantizar el correcto y oportuno avance curricular de los estudiantes, con el previo análisis en conjunto con el académico de la asignatura.
+
+Referencias: Reglamento_ICI: [Art. 8]
+Ubicaciones: TÍTULO II DEL PLAN DE ESTUDIO
+
+-Prompt: ¿Cuál es la duración de la carrera de ingniería civil informática y cuál es el plazo máximo para completarla antes de revalidar?
+
+Respuesta: La duración del plan de estudios de la carrera de Ingeniería Civil Informática es de 12 semestres, con un plazo máximo de 18 semestres para completarla. Si se supera este plazo, el estudiante deberá revalidar las asignaturas cursadas y someterse a nuevas exigencias curriculares.
+
+Referencias: Reglamento_ICI: [Art. 9]
+Ubicaciones: TÍTULO II DEL PLAN DE ESTUDIO
+
+-Prompt: ¿Cuándo debo inscribir asignaturas y qué ocurre si repruebo una?
+
+Respuesta: Debes inscribir las asignaturas al inicio de cada semestre lectivo, cumpliendo con las previaturas establecidas en el plan de estudios. Si repruebas una asignatura, debes volver a cursarla obligatoriamente en la primera oportunidad en que se vuelva a dictar.
+
+Referencias: Reglamento_ICI: [Art. 10, Art. 11], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: [Art. 19, Art. 20]
+Ubicaciones: TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS, TITULO III DEL REGIMEN DE ESTUDIOS
+
+-Prompt: ¿Puedo inscribir asignaturas con tope de horario? ¿Cuál es la carga máxima (SCT) y cuánta carga adicional puedo solicitar?
+
+Respuesta: No puedes inscribir asignaturas con tope de horario. La carga máxima es de 30 SCT semestrales, y puedes solicitar una carga adicional de hasta 2 créditos.
+
+Referencias: Reglamento_ICI: [Art. 12, Art. 13]
+Ubicaciones: TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS
+
+-Prompt: ¿En qué casos el Jefe de Carrera puede eximirme de reglas como tope, reprobación o carga?
+
+Respuesta: El Jefe de Carrera puede eximir a un estudiante de las exigencias de los artículos 10, 11, 12 y 13, en casos excepcionales y debidamente justificados. Estos artículos se refieren a la inscripción de asignaturas, la reprobación, el tope de horario y la carga académica.
+
+Referencias: Reglamento_ICI: [Art. 10, Art. 11, Art. 12, Art. 13, Art. 14]
+Ubicaciones: TÍTULO III DE LA INSCRIPCIÓN DE ASIGNATURAS
+
+-Prompt: ¿Qué debe informar el profesor al inicio del curso y quiénes pueden tomar evaluaciones sumativas?
+
+Respuesta: Al inicio del curso, el profesor debe informar a los estudiantes sobre el programa de la asignatura, las competencias asociadas, los resultados de aprendizaje y desempeños, contenidos, número y tipo de evaluaciones, ponderación y fecha tentativa de cada una de ellas, horario y lugar de atención de estudiantes para consultas. Las evaluaciones sumativas pueden ser realizadas únicamente por el o los profesores de la asignatura, salvo en casos extraordinarios donde el Jefe de Carrera puede designar a otro profesor para reemplazarlos.
+
+Referencias: Reglamento_ICI: [Art. 15, Art. 16]
+Ubicaciones: TÍTULO IV DEL DESARROLLO DE LAS ASIGNATURAS, TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuál es la asistencia mínima exigible en talleres y laboratorios en ingniería civil informática?
+
+Respuesta: Se podrá exigir una asistencia de al menos un 50% en talleres, prácticas de laboratorio o aquellas actividades que por sus propias características así lo requieran.
+
+Referencias: Reglamento_ICI: [Art. 17]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuál es la escala de notas y qué nivel de exigencia equivale a nota 4,0 en ingniería civil informática?
+
+Respuesta: La escala de notas es de 1.0 a 7.0. Para obtener una nota 4.0, el nivel de exigencia es del 60%.
+
+Referencias: Reglamento_ICI: [Art. 18, Art. 19]
+Ubicaciones: TÍTULO VI  DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuántas evaluaciones sumativas como mínimo debe contemplar una asignatura?
+
+Respuesta: Una asignatura debe contemplar un mínimo de tres evaluaciones sumativas durante el semestre.
+
+Referencias: Reglamento_ICI: [Art. 20]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar? ¿Existen evaluaciones recuperativas?
+
+Respuesta: Si faltas a una evaluación, obtendrás una nota de 1.0, a menos que acredites una justificación fundada por fuerza mayor o incapacidad. Debes justificar tu ausencia en un plazo máximo de 2 días hábiles después de la evaluación. En caso de inasistencia justificada, cada programa de asignatura especificará la cantidad y metodología de las evaluaciones recuperativas.
+
+Referencias: Reglamento_ICI: [Art. 21], Reglamento_ICI: [Art. 15, Art. 35]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE, TÍTULO IV DEL DESARROLLO DE LAS ASIGNATURAS
+
+-Prompt: Si termino el curso con nota entre 3,5 y 3,9 inclusive, ¿cómo se calcula la nota final tras la sumativa extraordinaria?
+
+Respuesta: La nota de cierre de la asignatura se calculará como el promedio ponderado entre la nota de presentación (la nota obtenida antes de la sumativa extraordinaria), que se ponderará por el 70%, y la calificación de la sumativa extraordinaria, que se ponderará por el 30%.
+
+Referencias: Reglamento_ICI: [Art. 22]
+Ubicaciones: TÍTULO VI  DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿En qué plazo deben publicarse las notas y en cuántos días puedo apelar una calificación?
+
+Respuesta: Las notas deben publicarse en un plazo máximo de 15 días hábiles después de realizada la evaluación. Tienes un plazo máximo de 3 días hábiles, a partir de la publicación del resultado, para apelar una calificación.
+
+Referencias: Reglamento_ICI: [Art. 23, Art. 25], Reglamento_ICI: [Art. 25]
+Ubicaciones: TÍTULO VI DE LA EVALUACIÓN DEL ESTUDIANTE
+
+-Prompt: ¿Cuándo puedo realizar las Prácticas I y II, y cómo se configura el Trabajo de Título y su comisión evaluadora?
+
+Respuesta: Puedes realizar la Práctica Profesional I en el 5º semestre y la Práctica Profesional II en el 11º semestre. Para realizar la Práctica I, debes haber aprobado al menos el 4º semestre, y para la Práctica II, debes haber aprobado al menos el 8º semestre y la Práctica I.
+
+El Trabajo de Título es supervisado por un profesor guía. Debes presentar una propuesta de Trabajo de Título al iniciar el Seminario de Título I ante una comisión evaluadora, quienes fijarán los criterios de aprobación y revisión. El Jefe de Carrera, basado en la recomendación del profesor guía, designará una Comisión Examinadora para evaluar el informe final del Trabajo de Título y el Examen de Título, que son parte de las evaluaciones de Seminario de Título II.
+
+Referencias: Reglamento_ICI: [Art. 30, Art. 31, Art. 32], Reglamento_ICI: [Art. 35, Art. 36, Art. 37, Art. 38, Art. 39]
+Ubicaciones: TÍTULO IX DE LA PRÁCTICA PROFESIONAL, TÍTULO XI DEL TRABAJO DE TÍTULO

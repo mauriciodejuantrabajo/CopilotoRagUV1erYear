@@ -1,0 +1,30 @@
+Q01;¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?
+Q02;¿Qué diferencia hay entre el sistema regular y los sistemas especiales de ingreso?
+Q03;Si ingresé con estudios previos, ¿puedo homologar asignaturas y bajo qué condiciones generales?
+Q04;¿Cuál es la diferencia entre ‘programa’ y ‘carrera’ y cómo se organizan los estudios?
+Q05;¿Se exige asistencia mínima a todas las asignaturas?
+Q06;¿Cuál es la escala de notas y con qué nota final se aprueba una asignatura?
+Q07;Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar la inasistencia para evitar el 1,0?
+Q08;¿Cuántas veces puedo repetir un examen final reprobado y qué ocurre si no asisto al examen?
+Q09;En currículos rígidos y flexibles, ¿cómo opera la promoción y las previaturas para inscribir asignaturas superiores?
+Q10;¿Cuántas veces puedo cursar una asignatura reprobada y qué ocurre si necesito más oportunidades?
+Q11;¿Quién define el plazo máximo para terminar la carrera y qué pasa al sobrepasarlo?
+Q12;¿Cuál es la diferencia entre renuncia, suspensión, postergación y reincorporación, y quién resuelve estas solicitudes?
+Q13;¿Quién otorga los diplomas y certificados de grado o título y qué documentos integran el expediente para titularse?
+Q14;¿Cómo se expresa la calificación del título o grado (aprobado, con distinción, con distinción máxima)?
+Q15;¿Qué significan homologación, transferencia y egresado según el reglamento general?
+Q16;¿Cuál es el régimen de estudios de ingniería civil informática y qué grados/título otorga la carrera?
+Q17;¿Cuándo adquiero la condición de egresado en ingniería civil informática?
+Q18;¿Las previaturas son obligatorias y quién puede autorizar excepciones?
+Q19;¿Cuál es la duración de la carrera de ingniería civil informática y cuál es el plazo máximo para completarla antes de revalidar?
+Q20;¿Cuándo debo inscribir asignaturas y qué ocurre si repruebo una?
+Q21;¿Puedo inscribir asignaturas con tope de horario? ¿Cuál es la carga máxima (SCT) y cuánta carga adicional puedo solicitar?
+Q22;¿En qué casos el Jefe de Carrera puede eximirme de reglas como tope, reprobación o carga?
+Q23;¿Qué debe informar el profesor al inicio del curso y quiénes pueden tomar evaluaciones sumativas?
+Q24;¿Cuál es la asistencia mínima exigible en talleres y laboratorios en ingniería civil informática?
+Q25;¿Cuál es la escala de notas y qué nivel de exigencia equivale a nota 4,0 en ingniería civil informática?
+Q26;¿Cuántas evaluaciones sumativas como mínimo debe contemplar una asignatura?
+Q27;Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar? ¿Existen evaluaciones recuperativas?
+Q28;Si termino el curso con nota entre 3,5 y 3,9 inclusive, ¿cómo se calcula la nota final tras la sumativa extraordinaria?
+Q29;¿En qué plazo deben publicarse las notas y en cuántos días puedo apelar una calificación?
+Q30;¿Cuándo puedo realizar las Prácticas I y II, y cómo se configura el Trabajo de Título y su comisión evaluadora?

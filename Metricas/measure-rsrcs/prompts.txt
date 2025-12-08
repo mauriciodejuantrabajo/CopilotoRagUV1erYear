@@ -1,0 +1,30 @@
+Test Maximum Text Length
+
+- Continue the following story: Once upon a time, in a land far, far away, there was a magical forest where every creature had a unique ability...
+- Explain the evolution of technology from the industrial revolution to the present day.
+
+Response Speed Evaluation
+
+- Calculate 123 multiplied by 456.
+- What is the weather forecast for New York City today?.
+
+Evaluating Censorship Limits
+
+- Write a story that touches on political issues without taking sides.
+- Explain the concept of global warming while avoiding any controversial statements.
+
+Assessing Intelligence and Creativity
+
+- What might happen if humans lived underwater?
+- Compose a poem about autumn using vivid imagery and emotions.
+
+Practical Coding Example with Free Tool Builder Assistant
+
+- Create a simple HTML webpage with a greeting message and a background color of your choice.
+- Write a Python script that takes a list of numbers and returns the sum of even numbers.
+
+Advanced Strategies for Testing AI Models
+
+- Explain how photosynthesis works, step by step.
+- You are a customer service agent handling a complaint about a delayed order. Respond to the customer.
+

@@ -1,0 +1,240 @@
+
+-Prompt: ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?
+
+real	0m32.243s
+user	0m0.010s
+sys	0m0.000s
+CPU avg (%): 75.81 | Mem (%): 3.7, Mem (KB): 1238948 | GPU (%): 98, GPU (MB): 14991, GPU (°C): 61
+
+
+-Prompt: ¿Qué diferencia hay entre el sistema regular y los sistemas especiales de ingreso?
+
+real	0m50.149s
+user	0m0.009s
+sys	0m0.000s
+CPU avg (%): 21.29 | Mem (%): 3.7, Mem (KB): 1239972 | GPU (%): 100, GPU (MB): 14991, GPU (°C): 62
+
+
+-Prompt: Si ingresé con estudios previos, ¿puedo homologar asignaturas y bajo qué condiciones generales?
+
+real	0m45.639s
+user	0m0.005s
+sys	0m0.003s
+CPU avg (%): 12.37 | Mem (%): 3.8, Mem (KB): 1241764 | GPU (%): 100, GPU (MB): 14991, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es la diferencia entre ‘programa’ y ‘carrera’ y cómo se organizan los estudios?
+
+real	0m49.162s
+user	0m0.008s
+sys	0m0.004s
+CPU avg (%): 8.94 | Mem (%): 3.8, Mem (KB): 1242532 | GPU (%): 94, GPU (MB): 14991, GPU (°C): 63
+
+
+-Prompt: ¿Se exige asistencia mínima a todas las asignaturas?
+
+real	0m47.001s
+user	0m0.009s
+sys	0m0.000s
+CPU avg (%): 7.09 | Mem (%): 3.8, Mem (KB): 1243044 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es la escala de notas y con qué nota final se aprueba una asignatura?
+
+real	0m47.022s
+user	0m0.008s
+sys	0m0.000s
+CPU avg (%): 6.00 | Mem (%): 3.8, Mem (KB): 1243556 | GPU (%): 100, GPU (MB): 14988, GPU (°C): 63
+
+
+-Prompt: Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar la inasistencia para evitar el 1,0?
+
+real	0m49.094s
+user	0m0.000s
+sys	0m0.010s
+CPU avg (%): 5.20 | Mem (%): 3.8, Mem (KB): 1246372 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuántas veces puedo repetir un examen final reprobado y qué ocurre si no asisto al examen?
+
+real	0m53.167s
+user	0m0.000s
+sys	0m0.009s
+CPU avg (%): 4.62 | Mem (%): 3.8, Mem (KB): 1247396 | GPU (%): 100, GPU (MB): 14991, GPU (°C): 62
+
+
+-Prompt: En currículos rígidos y flexibles, ¿cómo opera la promoción y las previaturas para inscribir asignaturas superiores?
+
+real	0m48.115s
+user	0m0.008s
+sys	0m0.000s
+CPU avg (%): 4.18 | Mem (%): 3.8, Mem (KB): 1248420 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuántas veces puedo cursar una asignatura reprobada y qué ocurre si necesito más oportunidades?
+
+real	0m51.083s
+user	0m0.006s
+sys	0m0.003s
+CPU avg (%): 3.85 | Mem (%): 3.8, Mem (KB): 1248932 | GPU (%): 92, GPU (MB): 14991, GPU (°C): 64
+
+
+-Prompt: ¿Quién define el plazo máximo para terminar la carrera y qué pasa al sobrepasarlo?
+
+real	0m48.044s
+user	0m0.007s
+sys	0m0.002s
+CPU avg (%): 3.56 | Mem (%): 3.8, Mem (KB): 1249444 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 62
+
+
+-Prompt: ¿Cuál es la diferencia entre renuncia, suspensión, postergación y reincorporación, y quién resuelve estas solicitudes?
+
+real	0m51.049s
+user	0m0.005s
+sys	0m0.006s
+CPU avg (%): 3.32 | Mem (%): 3.8, Mem (KB): 1250468 | GPU (%): 100, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Quién otorga los diplomas y certificados de grado o título y qué documentos integran el expediente para titularse?
+
+real	0m46.817s
+user	0m0.004s
+sys	0m0.003s
+CPU avg (%): 3.14 | Mem (%): 3.8, Mem (KB): 1252004 | GPU (%): 100, GPU (MB): 14988, GPU (°C): 63
+
+
+-Prompt: ¿Cómo se expresa la calificación del título o grado (aprobado, con distinción, con distinción máxima)?
+
+real	0m54.583s
+user	0m0.007s
+sys	0m0.003s
+CPU avg (%): 2.99 | Mem (%): 3.8, Mem (KB): 1252260 | GPU (%): 100, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Qué significan homologación, transferencia y egresado según el reglamento general?
+
+real	0m47.470s
+user	0m0.008s
+sys	0m0.000s
+CPU avg (%): 2.84 | Mem (%): 3.8, Mem (KB): 1252516 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es el régimen de estudios de ingniería civil informática y qué grados/título otorga la carrera?
+
+real	0m40.931s
+user	0m0.010s
+sys	0m0.000s
+CPU avg (%): 2.74 | Mem (%): 3.8, Mem (KB): 1253028 | GPU (%): 94, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Cuándo adquiero la condición de egresado en ingniería civil informática?
+
+real	0m50.365s
+user	0m0.005s
+sys	0m0.005s
+CPU avg (%): 2.67 | Mem (%): 3.8, Mem (KB): 1253284 | GPU (%): 100, GPU (MB): 14988, GPU (°C): 63
+
+
+-Prompt: ¿Las previaturas son obligatorias y quién puede autorizar excepciones?
+
+real	0m47.816s
+user	0m0.006s
+sys	0m0.000s
+CPU avg (%): 2.60 | Mem (%): 3.8, Mem (KB): 1253796 | GPU (%): 88, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es la duración de la carrera de ingniería civil informática y cuál es el plazo máximo para completarla antes de revalidar?
+
+real	0m47.467s
+user	0m0.000s
+sys	0m0.010s
+CPU avg (%): 2.56 | Mem (%): 3.8, Mem (KB): 1255588 | GPU (%): 93, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Cuándo debo inscribir asignaturas y qué ocurre si repruebo una?
+
+real	0m48.287s
+user	0m0.007s
+sys	0m0.000s
+CPU avg (%): 2.50 | Mem (%): 3.8, Mem (KB): 1255844 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Puedo inscribir asignaturas con tope de horario? ¿Cuál es la carga máxima (SCT) y cuánta carga adicional puedo solicitar?
+
+real	0m48.497s
+user	0m0.004s
+sys	0m0.008s
+CPU avg (%): 2.41 | Mem (%): 3.8, Mem (KB): 1255844 | GPU (%): 100, GPU (MB): 14981, GPU (°C): 63
+
+
+-Prompt: ¿En qué casos el Jefe de Carrera puede eximirme de reglas como tope, reprobación o carga?
+
+real	0m42.593s
+user	0m0.004s
+sys	0m0.007s
+CPU avg (%): 2.39 | Mem (%): 3.8, Mem (KB): 1256356 | GPU (%): 100, GPU (MB): 14990, GPU (°C): 63
+
+
+-Prompt: ¿Qué debe informar el profesor al inicio del curso y quiénes pueden tomar evaluaciones sumativas?
+
+real	0m47.322s
+user	0m0.009s
+sys	0m0.000s
+CPU avg (%): 2.35 | Mem (%): 3.8, Mem (KB): 1256868 | GPU (%): 100, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es la asistencia mínima exigible en talleres y laboratorios en ingniería civil informática?
+
+real	0m44.074s
+user	0m0.004s
+sys	0m0.004s
+CPU avg (%): 2.30 | Mem (%): 3.8, Mem (KB): 1257380 | GPU (%): 86, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuál es la escala de notas y qué nivel de exigencia equivale a nota 4,0 en ingniería civil informática?
+
+real	0m46.646s
+user	0m0.009s
+sys	0m0.000s
+CPU avg (%): 2.30 | Mem (%): 3.8, Mem (KB): 1258660 | GPU (%): 100, GPU (MB): 14981, GPU (°C): 63
+
+
+-Prompt: ¿Cuántas evaluaciones sumativas como mínimo debe contemplar una asignatura?
+
+real	0m47.610s
+user	0m0.006s
+sys	0m0.003s
+CPU avg (%): 2.24 | Mem (%): 3.8, Mem (KB): 1258660 | GPU (%): 100, GPU (MB): 14987, GPU (°C): 63
+
+
+-Prompt: Si falto a una evaluación, ¿qué nota obtengo y en qué plazo debo justificar? ¿Existen evaluaciones recuperativas?
+
+real	0m53.072s
+user	0m0.007s
+sys	0m0.002s
+CPU avg (%): 2.20 | Mem (%): 3.8, Mem (KB): 1259172 | GPU (%): 97, GPU (MB): 14987, GPU (°C): 62
+
+
+-Prompt: Si termino el curso con nota entre 3,5 y 3,9 inclusive, ¿cómo se calcula la nota final tras la sumativa extraordinaria?
+
+real	0m51.195s
+user	0m0.009s
+sys	0m0.000s
+CPU avg (%): 2.18 | Mem (%): 3.8, Mem (KB): 1259428 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿En qué plazo deben publicarse las notas y en cuántos días puedo apelar una calificación?
+
+real	0m50.641s
+user	0m0.007s
+sys	0m0.004s
+CPU avg (%): 2.10 | Mem (%): 3.8, Mem (KB): 1259940 | GPU (%): 92, GPU (MB): 14989, GPU (°C): 63
+
+
+-Prompt: ¿Cuándo puedo realizar las Prácticas I y II, y cómo se configura el Trabajo de Título y su comisión evaluadora?
+
+real	0m53.452s
+user	0m0.007s
+sys	0m0.003s
+CPU avg (%): 2.10 | Mem (%): 3.8, Mem (KB): 1260452 | GPU (%): 100, GPU (MB): 14989, GPU (°C): 63
+
