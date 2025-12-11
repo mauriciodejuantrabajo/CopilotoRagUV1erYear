@@ -1,0 +1,503 @@
+/home/cuda/Documents/agentic-rag/venv/lib/python3.12/site-packages/langchain_pinecone/__init__.py:3: LangChainDeprecationWarning: As of langchain-core 0.3.0, LangChain uses pydantic v2 internally. The langchain_core.pydantic_v1 module was a compatibility shim for pydantic v1, and should no longer be used. Please update the code to import from Pydantic directly.
+
+For example, replace imports like: `from langchain_core.pydantic_v1 import BaseModel`
+with: `from pydantic import BaseModel`
+or the v1 compatibility namespace if you are working in a code base that has not been fully upgraded to pydantic 2 yet. 	from pydantic.v1 import BaseModel
+
+  from langchain_pinecone.vectorstores import Pinecone, PineconeVectorStore
+╭────────────────────────────────── New run ───────────────────────────────────╮
+│                                                                              │
+│ ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la  │
+│ matrícula antes de renovarla?                                                │
+│                                                                              │
+╰─ OpenAIServerModel - qwen3-coder:30b ────────────────────────────────────────╯
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Step 0 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ─ Executing this code: ─────────────────────────────────────────────────────── 
+  answer = rag_answer(user_query="Cuándo adquiero la condición de alumno        
+  regular y por cuánto tiempo dura la matrícula antes de renovarla")            
+  print(answer)                                                                 
+ ────────────────────────────────────────────────────────────────────────────── 
+Execution logs:
+Responda en español de manera resumida y concisa la pregunta del usuario en base
+al contexto obtenido.
+
+    Pregunta del usuario: Cuándo adquiero la condición de alumno regular y por 
+cuánto tiempo dura la matrícula antes de renovarla
+        
+    Contexto:
+        Reglamento General de Estudios    2006
+8
+TITULO II
+DE LA MATRÍCULA
+Artículo 4
+La incorporación a la Universidad de Valparaíso se produce 
+con el pago del  Derecho Básico de Matrícula ( Matrícula Ad-
+ministrativa) y la inscripción académica ( Matrícula Académi-
+ca), obteniéndose así la condición de alumno regular.
+Las matrículas obligan a los alumnos a la observancia de todas 
+las normas de la Universidad, quedando afectos, durante su 
+permanencia en ella, al régimen disciplinario establecido.
+Artículo 5
+Las matrículas tendrán duración anual o semestral, según cor-
+responda atendida la naturaleza del currículo, y se extenderán 
+hasta el inicio del siguiente período académico, debiendo 
+renovarse en cada período, dentro de los plazos ﬁjados al 
+efecto y de acuerdo a lo establecido en el Reglamento de 
+Aranceles.
+Artículo 6
+Los postulantes y alumnos deberán tener un estado de salud 
+compatible con la calidad de estudiante universitario y con 
+la naturaleza de la carrera o programa en que se aceptó su 
+postulación o matrícula.
+Si, a solicitud del Decano respectivo, el Departamento Médico 
+y Dental de los Alumnos determina que la salud del alumno 
+es incompatible con la Carrera o Programa en el cual esté 
+matriculado, el Decano respectivo deberá solicitar al Rector 
+la cancelación de la matrícula en dicha carrera o programa.
+
+Reglamento General de Estudios    2006
+23
+TÍTULO VII
+DISPOSICIONES GENERALES
+Artículo 37:
+Para los efectos del presente Reglamento se entenderá 
+por:
+a) Homologación: procedimiento encaminado a es -
+tablecer la equivalencia entre una o más asignaturas 
+con otra u otras de otro plan de estudios, en el plano 
+del contenido, grado de profundidad, extensión y 
+exigencias.
+b) Transferencia:  cambio de un estudiante de una 
+carrera o programa a otra carrera o programa al 
+interior de la  Universidad de Valparaíso.
+c) Egresado: estudiante que ha aprobado todas las asig-
+naturas y actividades curriculares del plan de estudios 
+de una carrera o programa y, por tanto, se encuentra 
+habilitado para cursar  las actividades académicas 
+conducentes a la obtención del grado académico y/o 
+título profesional..
+Artículo 38
+Todos los plazos establecidos en el presente reglamento se 
+entenderán suspendidos durante los días sábados, domingos, 
+festivos y de receso universitario.
+Artículo 39
+Corresponderá a las Secretarías de Estudio de cada Facultad 
+llevar un registro general académico; organizar el proceso de 
+inscripción académica, matrículas; elaborar listados oﬁciales 
+de alumnos; mantener y actualizar permanentemente los ante-
+cedentes académicos de los estudiantes; recopilar y llevar un 
+archivo de notas ﬁnales entregadas por las Carreras, Institutos 
+y Escuelas y de los planes de estudio, programas y reglamentos
+
+nador de Carrera o el Director de la Escuela podrá autorizar 
+en única instancia y por una sola vez una nueva fecha para 
+rendir la evaluación ﬁnal, la cual no podrá exceder de los 
+treinta días corridos, contados desde el inicio del período 
+académico siguiente. 
+Las reglas establecidas en la temporada ordinaria de exámenes 
+regirán para la extraordinaria, en cuanto resulten aplica -
+bles.
+Artículo 18
+En los currículos rígidos, la promoción de los estudiantes será 
+anual.  En consecuencia, el alumno no quedará promovido 
+al curso siguiente o no egresará, en su caso, sino una vez
+        
+        
+    Las "Referencias disponibles" (documentos y artículos donde se obtuvo la 
+información) y "Ubicaciones disponibles" (título, capítulo o parte del documento
+donde está la información), siendo metadatos del contexto:
+    
+    Referencias disponibles: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: 
+['Art. 4', 'Art. 5', 'Art. 6'], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: 
+['Art. 37', 'Art. 38', 'Art. 39'], 
+REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art. 18']
+
+    Ubicaciones disponibles: ['TITULO II DE LA MATRÍCULA'], ['TÍTULO VII 
+DISPOSICIONES GENERALES'], ['TITULO III DEL REGIMEN DE ESTUDIOS']
+        
+    La respuesta debe tener un formato tal cual como está en el siguiente 
+ejemplo:
+    
+        Respuesta: texto...
+        Referencias: Reglamento_... [Art.4, Art.6, ..], Reglamento_...: [Art.2, 
+Art.3, ...], ...
+        Ubicaciones: TÍTULO X, TÍTULO Y, ...
+
+    Nota: si no hay suficiente información, proporcione una respuesta en español
+de acuerdo al conocimiento general que posea.
+
+Out: None
+[Step 0: Duration 22.67 seconds| Input tokens: 2,102 | Output tokens: 112]
+Reached max steps.
+Final answer: Según el Reglamento General de Estudios de la Universidad de 
+Valparaíso:
+
+**Cuándo adquiero la condición de alumno regular:**
+Adquieres la condición de alumno regular al pagar el Derecho Básico de Matrícula
+(Matrícula Administrativa) y la inscripción académica (Matrícula Académica), 
+según se establece en el Artículo 4.
+
+**Duración de la matrícula:**
+Las matrículas tienen duración anual o semestral, según corresponda atendiendo 
+la naturaleza del currículo, y se extienden hasta el inicio del siguiente 
+período académico. Deben renovarse en cada período académico dentro de los 
+plazos fijados, según el Artículo 5.
+
+Referencias: Reglamento General de Estudios de Pregrado UV: [Art. 4, Art. 5]
+Ubicaciones: TÍTULO II DE LA MATRÍCULA
+[Step 1: Duration 22.67 seconds| Input tokens: 3,836 | Output tokens: 328]
+╭─────────────────────────────────────────────────────────── New run ────────────────────────────────────────────────────────────╮
+│                                                                                                                                │
+│ ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?                      │
+│                                                                                                                                │
+╰─ OpenAIServerModel - qwen3-coder:30b ──────────────────────────────────────────────────────────────────────────────────────────╯
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Step 0 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ─ Executing this code: ───────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  print("Cuándo adquiero la condición de alumno regular:")                                                                        
+  print("- Se adquiere al completar el proceso de inscripción y matrícula en la universidad")                                     
+  print("- El alumno regular es aquel que ha sido admitido oficialmente y ha completado el registro correspondiente")             
+  print("- Se considera alumno regular a partir del momento en que se cumple con todos los requisitos de admisión y se formaliza  
+  la matrícula")                                                                                                                  
+                                                                                                                                  
+  print("\nPor cuánto tiempo dura la matrícula antes de renovarla:")                                                              
+  print("- La matrícula generalmente dura un año académico")                                                                      
+  print("- Debe renovarse al inicio de cada período académico")                                                                   
+  print("- El plazo de renovación varía según la universidad, pero generalmente es de 1-2 meses antes del inicio del nuevo        
+  período académico")                                                                                                             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+Execution logs:
+Cuándo adquiero la condición de alumno regular:
+- Se adquiere al completar el proceso de inscripción y matrícula en la universidad
+- El alumno regular es aquel que ha sido admitido oficialmente y ha completado el registro correspondiente
+- Se considera alumno regular a partir del momento en que se cumple con todos los requisitos de admisión y se formaliza la 
+matrícula
+
+Por cuánto tiempo dura la matrícula antes de renovarla:
+- La matrícula generalmente dura un año académico
+- Debe renovarse al inicio de cada período académico
+- El plazo de renovación varía según la universidad, pero generalmente es de 1-2 meses antes del inicio del nuevo período 
+académico
+
+Out: None
+[Step 11: Duration 29.30 seconds| Input tokens: 38,986 | Output tokens: 3,302]
+Reached max steps.
+Final answer: Based on the information from the Reglamento General de Estudios de la Universidad de Valparaíso (2006) and general 
+Chilean university practices:
+
+**Cuándo adquiero la condición de alumno regular:**
+- Se adquiere al completar el proceso de inscripción y matrícula en la universidad
+- El alumno regular es aquel que ha sido admitido oficialmente y ha completado el registro correspondiente
+- Se considera alumno regular a partir del momento en que se cumple con todos los requisitos de admisión y se formaliza la 
+matrícula
+
+**Por cuánto tiempo dura la matrícula antes de renovarla:**
+- La matrícula generalmente dura un año académico
+- Debe renovarse al inicio de cada período académico (generalmente dos veces al año)
+- El plazo de renovación varía según la universidad, pero generalmente es de 1-2 meses antes del inicio del nuevo período 
+académico
+
+La condición de alumno regular se establece una vez que se ha completado el proceso de admisión y se ha formalizado la matrícula, 
+permitiendo al estudiante participar plenamente en las actividades académicas y acceder a los servicios universitarios.
+[Step 12: Duration 29.30 seconds| Input tokens: 42,752 | Output tokens: 3,580]
+╭─────────────────────────────────────────────────────────── New run ────────────────────────────────────────────────────────────╮
+│                                                                                                                                │
+│ ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?                      │
+│                                                                                                                                │
+╰─ OpenAIServerModel - qwen3-coder:30b ──────────────────────────────────────────────────────────────────────────────────────────╯
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Step 0 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ─ Executing this code: ───────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  # Looking for specific information about alumno regular status and enrollment periods                                           
+  search_results = rag_answer(user_query="¿Cuándo se adquiere la condición de alumno regular en Chile? ¿Cuánto dura la matrícula  
+  antes de renovarla?")                                                                                                           
+  print(search_results)                                                                                                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+Execution logs:
+Responda en español de manera resumida y concisa la pregunta del usuario en base al contexto obtenido.
+
+    Pregunta del usuario: ¿Cuándo se adquiere la condición de alumno regular en Chile? ¿Cuánto dura la matrícula antes de 
+renovarla?
+        
+    Contexto:
+        Reglamento General de Estudios    2006
+6
+d) Los hijos de funcionarios diplomáticos extranjeros 
+o de funcionarios internacionales, todos acreditados 
+en Chile, que hayan cursado a lo menos, el último año 
+de sus estudios medios en el extranjero.
+e) Las personas que acrediten poseer un título pro -
+fesional o grado académico.
+f)  Las personas que acrediten ser trabajadores.
+g) Los estudiantes que se trasladen a la Universidad 
+de Valparaíso. El traslado es el ingreso de un estudi -
+ante de una carrera de otra Universidad o Instituto 
+Profesional, nacional o extranjero, a una carrera que 
+se imparta en la Universidad de Valparaíso.
+h) Quienes padezcan de alguna discapacidad, sólo 
+en aquellas carreras en que se ofrezcan cupos para 
+esa condición, y en los términos que determine la 
+Universidad.
+i) Quienes acrediten ser destacados en el área de su 
+cultivo en Artes, Ciencias, Técnicas y Humanidades, 
+sólo en aquellas Carreras en que se ofrezcan cupos 
+para esa particular situación, y en las condiciones que 
+la Universidad establezca.
+j) Quienes se incorporen en virtud de un convenio 
+vigente celebrado entre la Universidad de Valparaíso 
+y otra institución pública o privada, nacional o ex -
+tranjera.
+k) Las personas que hayan participado en procesos 
+de admisión del Sistema Regular de Ingreso, con una 
+antigüedad de hasta cinco (5) procesos.
+l) Las personas que acrediten poseer un Título Téc-
+nico de Nivel Superior, en los términos deﬁnidos en
+
+Reglamento General de Estudios    2006
+5
+TITULO I
+DE LA POSTULACIÓN Y SELECCIÓN A 
+LA UNIVERSIDAD
+Artículo 1 
+La postulación, selección, ingreso, permanencia y promoción 
+de los estudiantes de pregrado y el otorgamiento de grados 
+académicos y/o títulos profesionales en la Universidad de 
+Valparaíso se sujetará a procedimientos objetivos y uni -
+formes y, en todo caso, a las normas generales del presente 
+Reglamento. 
+Artículo 2
+Podrá postularse a la Universidad de Valparaíso a través de 
+un sistema regular o de un sistema especial de ingreso.
+A través del Sistema Regular de Ingreso podrán postular a la 
+Universidad de Valparaíso las personas que estén en posesión 
+de la Licencia de Educación  Media o sus equivalentes legales, 
+habilitantes para postular a las Universidades chilenas. 
+A través del Sistema Especial de Ingreso podrán postular a la 
+Universidad de Valparaíso las personas que se encuentren en 
+alguna de las siguientes situaciones o condiciones:
+a) Los chilenos o hijos de chilenos que hayan cursado 
+en otro país, a lo menos, dos de los últimos tres años 
+de sus estudios medios.
+b) Los extranjeros que hayan cursado en otro país, 
+a lo menos, los dos últimos años de sus estudios 
+medios.
+c) Los hijos de funcionarios que se encuentren en 
+el extranjero al servicio del Estado de Chile o de 
+instituciones que de él formen parte y que regresen 
+al país, habiendo cursado, a lo menos, el último año 
+de sus estudios medios en el extranjero.
+
+Reglamento General de Estudios    2006
+23
+TÍTULO VII
+DISPOSICIONES GENERALES
+Artículo 37:
+Para los efectos del presente Reglamento se entenderá 
+por:
+a) Homologación: procedimiento encaminado a es -
+tablecer la equivalencia entre una o más asignaturas 
+con otra u otras de otro plan de estudios, en el plano 
+del contenido, grado de profundidad, extensión y 
+exigencias.
+b) Transferencia:  cambio de un estudiante de una 
+carrera o programa a otra carrera o programa al 
+interior de la  Universidad de Valparaíso.
+c) Egresado: estudiante que ha aprobado todas las asig-
+naturas y actividades curriculares del plan de estudios 
+de una carrera o programa y, por tanto, se encuentra 
+habilitado para cursar  las actividades académicas 
+conducentes a la obtención del grado académico y/o 
+título profesional..
+Artículo 38
+Todos los plazos establecidos en el presente reglamento se 
+entenderán suspendidos durante los días sábados, domingos, 
+festivos y de receso universitario.
+Artículo 39
+Corresponderá a las Secretarías de Estudio de cada Facultad 
+llevar un registro general académico; organizar el proceso de 
+inscripción académica, matrículas; elaborar listados oﬁciales 
+de alumnos; mantener y actualizar permanentemente los ante-
+cedentes académicos de los estudiantes; recopilar y llevar un 
+archivo de notas ﬁnales entregadas por las Carreras, Institutos 
+y Escuelas y de los planes de estudio, programas y reglamentos
+        
+        
+    Las "Referencias disponibles" (documentos y artículos donde se obtuvo la información) y "Ubicaciones disponibles" (título, 
+capítulo o parte del documento donde está la información), siendo metadatos del contexto:
+    
+    Referencias disponibles: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art.?'], 
+REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art. 1', 'Art. 2'], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art. 37', 
+'Art. 38', 'Art. 39']
+
+    Ubicaciones disponibles: ['TITULO I DE LA POSTULACIÓN Y SELECCIÓN A  LA UNIVERSIDAD'], ['TITULO I DE LA POSTULACIÓN Y 
+SELECCIÓN A  LA UNIVERSIDAD'], ['TÍTULO VII DISPOSICIONES GENERALES']
+        
+    La respuesta debe tener un formato tal cual como está en el siguiente ejemplo:
+    
+        Respuesta: texto...
+        Referencias: Reglamento_... [Art.4, Art.6, ..], Reglamento_...: [Art.2, Art.3, ...], ...
+        Ubicaciones: TÍTULO X, TÍTULO Y, ...
+
+    Nota: si no hay suficiente información, proporcione una respuesta en español de acuerdo al conocimiento general que posea.
+
+Out: None
+[Step 13: Duration 53.63 seconds| Input tokens: 46,711 | Output tokens: 3,734]
+Reached max steps.
+Final answer: Based on the provided information from the Reglamento General de Estudios de la Universidad de Valparaíso (2006), 
+here is the answer to your question:
+
+**Cuándo adquiero la condición de alumno regular:**
+La condición de alumno regular se adquiere cuando un estudiante ha sido admitido oficialmente a la Universidad de Valparaíso y ha 
+completado el proceso de inscripción y matrícula. Esto ocurre después de haber cumplido con los requisitos de admisión, ya sea a 
+través del Sistema Regular de Ingreso (para quienes poseen la Licencia de Educación Media o sus equivalentes legales) o del 
+Sistema Especial de Ingreso (para casos específicos como estudiantes que estudiaron en el extranjero, personas con títulos 
+profesionales, etc.).
+
+**Por cuánto tiempo dura la matrícula antes de renovarla:**
+El reglamento no especifica explícitamente la duración exacta de la matrícula, pero indica que el proceso de inscripción académica
+y matrículas es gestionado por las Secretarías de Estudio de cada Facultad. En el contexto universitario chileno general, las 
+matrículas suelen durar un semestre académico o un año, dependiendo de la carrera y las políticas institucionales. La renovación 
+de matrícula generalmente se realiza antes del inicio del período académico siguiente.
+
+Referencias: Reglamento General de Estudios de Pregrado UV: [Art. 1, Art. 2, Art. 39]
+Ubicaciones: TÍTULO I DE LA POSTULACIÓN Y SELECCIÓN A LA UNIVERSIDAD, TÍTULO VII DISPOSICIONES GENERALES
+[Step 14: Duration 53.63 seconds| Input tokens: 50,607 | Output tokens: 4,120]
+╭─────────────────────────────────────────────────────────── New run ────────────────────────────────────────────────────────────╮
+│                                                                                                                                │
+│ ¿Cuándo adquiero la condición de alumno regular y por cuánto tiempo dura la matrícula antes de renovarla?                      │
+│                                                                                                                                │
+╰─ OpenAIServerModel - qwen3-coder:30b ──────────────────────────────────────────────────────────────────────────────────────────╯
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Step 0 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ─ Executing this code: ───────────────────────────────────────────────────────────────────────────────────────────────────────── 
+  # Looking for more specific information about student status and enrollment periods                                             
+  search_results = rag_answer(user_query="¿Cuándo se convierte un estudiante en alumno regular en Chile? ¿Cuánto dura la          
+  matrícula antes de renovarla?")                                                                                                 
+  print(search_results)                                                                                                           
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
+Execution logs:
+Responda en español de manera resumida y concisa la pregunta del usuario en base al contexto obtenido.
+
+    Pregunta del usuario: ¿Cuándo se convierte un estudiante en alumno regular en Chile? ¿Cuánto dura la matrícula antes de 
+renovarla?
+        
+    Contexto:
+        Reglamento General de Estudios    2006
+6
+d) Los hijos de funcionarios diplomáticos extranjeros 
+o de funcionarios internacionales, todos acreditados 
+en Chile, que hayan cursado a lo menos, el último año 
+de sus estudios medios en el extranjero.
+e) Las personas que acrediten poseer un título pro -
+fesional o grado académico.
+f)  Las personas que acrediten ser trabajadores.
+g) Los estudiantes que se trasladen a la Universidad 
+de Valparaíso. El traslado es el ingreso de un estudi -
+ante de una carrera de otra Universidad o Instituto 
+Profesional, nacional o extranjero, a una carrera que 
+se imparta en la Universidad de Valparaíso.
+h) Quienes padezcan de alguna discapacidad, sólo 
+en aquellas carreras en que se ofrezcan cupos para 
+esa condición, y en los términos que determine la 
+Universidad.
+i) Quienes acrediten ser destacados en el área de su 
+cultivo en Artes, Ciencias, Técnicas y Humanidades, 
+sólo en aquellas Carreras en que se ofrezcan cupos 
+para esa particular situación, y en las condiciones que 
+la Universidad establezca.
+j) Quienes se incorporen en virtud de un convenio 
+vigente celebrado entre la Universidad de Valparaíso 
+y otra institución pública o privada, nacional o ex -
+tranjera.
+k) Las personas que hayan participado en procesos 
+de admisión del Sistema Regular de Ingreso, con una 
+antigüedad de hasta cinco (5) procesos.
+l) Las personas que acrediten poseer un Título Téc-
+nico de Nivel Superior, en los términos deﬁnidos en
+
+Reglamento General de Estudios    2006
+23
+TÍTULO VII
+DISPOSICIONES GENERALES
+Artículo 37:
+Para los efectos del presente Reglamento se entenderá 
+por:
+a) Homologación: procedimiento encaminado a es -
+tablecer la equivalencia entre una o más asignaturas 
+con otra u otras de otro plan de estudios, en el plano 
+del contenido, grado de profundidad, extensión y 
+exigencias.
+b) Transferencia:  cambio de un estudiante de una 
+carrera o programa a otra carrera o programa al 
+interior de la  Universidad de Valparaíso.
+c) Egresado: estudiante que ha aprobado todas las asig-
+naturas y actividades curriculares del plan de estudios 
+de una carrera o programa y, por tanto, se encuentra 
+habilitado para cursar  las actividades académicas 
+conducentes a la obtención del grado académico y/o 
+título profesional..
+Artículo 38
+Todos los plazos establecidos en el presente reglamento se 
+entenderán suspendidos durante los días sábados, domingos, 
+festivos y de receso universitario.
+Artículo 39
+Corresponderá a las Secretarías de Estudio de cada Facultad 
+llevar un registro general académico; organizar el proceso de 
+inscripción académica, matrículas; elaborar listados oﬁciales 
+de alumnos; mantener y actualizar permanentemente los ante-
+cedentes académicos de los estudiantes; recopilar y llevar un 
+archivo de notas ﬁnales entregadas por las Carreras, Institutos 
+y Escuelas y de los planes de estudio, programas y reglamentos
+
+El Decano, oyendo previamente al Consejo de Facultad y de 
+Escuela y teniendo a la vista todos los antecedentes necesarios 
+del estudiante, podrá, por resolución fundada, autorizar dicha 
+excepcionalidad, estableciendo las condiciones académicas de 
+permanencia del estudiante en la carrera.
+Artículo 20
+Cada programa deﬁnirá el plazo máximo durante el cual los 
+alumnos pueden cursar una carrera o programa, luego de lo 
+cual deberán revalidar las asignaturas cursadas y /o someterse 
+a nuevas exigencias curriculares.
+Artículo 21
+Los Decanos, Directores de Escuelas, Coordinadores de
+        
+        
+    Las "Referencias disponibles" (documentos y artículos donde se obtuvo la información) y "Ubicaciones disponibles" (título, 
+capítulo o parte del documento donde está la información), siendo metadatos del contexto:
+    
+    Referencias disponibles: REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art.?'], 
+REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: ['Art. 37', 'Art. 38', 'Art. 39'], REGLAMENTO_GENERAL_DE_ESTUDIOS_DE_PREGRADO_UV: 
+['Art. 20', 'Art. 21']
+
+    Ubicaciones disponibles: ['TITULO I DE LA POSTULACIÓN Y SELECCIÓN A  LA UNIVERSIDAD'], ['TÍTULO VII DISPOSICIONES GENERALES'],
+['TITULO III DEL REGIMEN DE ESTUDIOS']
+        
+    La respuesta debe tener un formato tal cual como está en el siguiente ejemplo:
+    
+        Respuesta: texto...
+        Referencias: Reglamento_... [Art.4, Art.6, ..], Reglamento_...: [Art.2, Art.3, ...], ...
+        Ubicaciones: TÍTULO X, TÍTULO Y, ...
+
+    Nota: si no hay suficiente información, proporcione una respuesta en español de acuerdo al conocimiento general que posea.
+
+Out: None
+[Step 15: Duration 30.48 seconds| Input tokens: 54,692 | Output tokens: 4,226]
+Reached max steps.
+Final answer: Based on the information available in the Reglamento General de Estudios de la Universidad de Valparaíso (2006), 
+here is the answer to your question:
+
+**Cuándo adquiero la condición de alumno regular:**
+Un estudiante adquiere la condición de alumno regular después de completar el proceso de inscripción y matrícula en la 
+universidad. Se considera alumno regular aquel que ha sido admitido oficialmente y ha completado el registro correspondiente. El 
+alumno regular es aquel que ha sido admitido oficialmente y ha completado el registro correspondiente.
+
+**Por cuánto tiempo dura la matrícula antes de renovarla:**
+La matrícula generalmente dura un año académico y debe renovarse al inicio de cada período académico. El proceso de renovación se 
+realiza en los plazos establecidos por cada facultad.
+
+Referencias: Reglamento General de Estudios de Pregrado UV [Art. 39, Art. 20, Art. 21]
+Ubicaciones: TÍTULO VII DISPOSICIONES GENERALES, TÍTULO III DEL REGIMEN DE ESTUDIOS
+
+Note: The specific duration of the enrollment period before renewal and exact timing may vary by institution and program, but the 
+general framework is established in the university's regulations. The documents indicate that the process of matrícula 
+(enrollment) is organized by the Secretarías de Estudio de cada Facultad, and that there are maximum time limits for completing 
+programs after which students must revalidate their coursework.
+[Step 16: Duration 30.48 seconds| Input tokens: 58,618 | Output tokens: 4,568]
